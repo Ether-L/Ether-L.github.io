@@ -1,1 +1,3 @@
-# Lin-Ether.github.io
+# lin-ether.github.io
+
+I'm planning to write a blog for studying notes and etc. It has not been completed yet and i don't knonw when will it be completed...
