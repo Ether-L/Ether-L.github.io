@@ -8,8 +8,8 @@ Hi I'm Ether Lin form Wenzhou, China. I have an offer to read Mathematics and Ph
 
 I developed this website for personal blog.
 
-My CV can be accessed [here]({{site.url}}/download/CV.pdf). 
+My CV can be found [here]({{site.url}}/download/CV.pdf). 
 
-Please send an email to <etherlin1@gmail.com> if you need to contact me.
+You can contact me by sending an email to <etherlin1@gmail.com>.
 
 
