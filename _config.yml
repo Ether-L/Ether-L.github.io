@@ -1,0 +1,14 @@
+
+title: Ether Lin's Blog
+email: etherlin1@gmail.com
+description: A personal blog by Ether Lin
+
+baseurl: "" 
+url: "https://lin-ether.github.io/" 
+github_username:  lin-ether
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-sitemap
+  
