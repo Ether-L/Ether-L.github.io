@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "How do you choose an Oxford College?"
+title:  "How do you choose your Oxford College?"
 date:   2021-04-11 02:19:00 +0800
 published: true
 ---
