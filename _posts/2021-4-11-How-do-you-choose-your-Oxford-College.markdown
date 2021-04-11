@@ -27,7 +27,7 @@ If you fail to open this website, you can download a VPN and locate yourself in 
 
 ### Political Vibe
 
-![Political Scale of each college](https://cdn.discordapp.com/attachments/806743365404196904/830690769878777856/image0.jpg" source: instagram@oxfordmemesociety")
+![Political Scale of each college](https://cdn.discordapp.com/attachments/806743365404196904/830690769878777856/image0.jpg "source: instagram@oxfordmemesociety")
 
 This picture is helpful if you want to know what the college political vibe is like.
 
