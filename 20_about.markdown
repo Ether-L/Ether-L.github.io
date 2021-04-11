@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hello! I'm Ether Lin, a secondary school student from Wenzhou. 
+Hi I'm Ether Lin form Wenzhou, China. I have an offer to read Mathematics and Philosophy in Balliol College, Oxford.
 
-This website is intended to be a blog and a personal website.
+I developed this website for personal blog.
 
-Here's my [CV]({{site.url}}/download/CV.pdf) as at April 2021. 
+My CV can be accessed [here]({{site.url}}/download/CV.pdf). 
 
-You can contact me by sending an email to <etherlin1@gmail.com>
+Please send an email to <etherlin1@gmail.com> if you need to contact me.
 
 
