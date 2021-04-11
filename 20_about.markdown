@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style = "padding-left: 10px;" align="right" src="{{site.url}}/download/profile.webp" width='250' >
+#<img style = "padding-left: 10px;" align="right" src="{{site.url}}/download/profile.webp" width='250' >
 
 Hello! I'm Ether Lin, a secondary school student from Wenzhou. 
 
