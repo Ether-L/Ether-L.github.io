@@ -9,7 +9,7 @@ Oxford has more than 30 colleges which provide courses for undergraduate student
 
 ### Admit Rate
 
-Oxford has published tables on [College Success Rates](https://public.tableau.com/views/UniversityofOxford-CollegeSuccessRates2019/CollegeSuccessRates?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no) and [Applications by College](https://public.tableau.com/views/UniversityofOxford-AdmissionsStatistics2019ByCollege/ApplicationsbyCollege?%3Aembed=y&%3Adisplay_count=yes&%3AshowTabs=y&%3AshowVizHome=no) which can be useful for you to choose your college. For example, if you want to know whether a college has preference towards state school students, just check the Admissions Statistics and opt "School Type" as column demographics.
+Oxford has published tables on [College Success Rates](https://public.tableau.com/views/UniversityofOxford-CollegeSuccessRates2019/CollegeSuccessRates?:embed=y&:display_count=yes&:showTabs=y&:showVizHome=no) and [Applications by College](https://public.tableau.com/views/UniversityofOxford-AdmissionsStatistics2019ByCollege/ApplicationsbyCollege?%3Aembed=y&%3Adisplay_count=yes&%3AshowTabs=y&%3AshowVizHome=no) which can be useful for you to choose your college. For example, if you want to know whether a college has preference towards state school students, just check the Admissions Statistics and select "School Type" as column demographics.
 
 ### Teaching Faculty
 
