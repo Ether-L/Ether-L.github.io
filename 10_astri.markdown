@@ -1,25 +1,11 @@
 ---
 layout: page
-title: ASTRI Scheme
+title: Archive
 permalink: /astri/
 published: true
 
 ---
 
-*This page is specifically made for the ASTRI scheme*
+*The archive of the post can be found here*
 
-### Background
-
-I'm a 17 year old, female student. For my Circulum vitae, please click [here]({{site.url}}/download/CV.pdf). For my personal statement, please click [here]({{site.url}}/download/statement.docx).
-
-For my completed projects / self-initiated work, please click [here]({{site.url}}/work/). 
-You could also refer to my [blog posts]({{site.url}}) concerning my other interests.
-
-### Preference on major areas of ASTRI
-
-1. Financial Technologies
-2. Application Specific Integrated Circuits
-3. Intelligent Manufacturing
-4. Smart City
-5. Health Technology
 
