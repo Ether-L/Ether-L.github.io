@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /astri/
+permalink: /archive/
 published: true
 
 ---
