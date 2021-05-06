@@ -13,7 +13,7 @@ Oxford has published tables on [College Success Rates](https://public.tableau.co
 
 ### Teaching Faculty
 
-It is important for you to check the official website of the institute of your own course and search for the teaching faculty of your targeted colleges. The research interests of each member are listed on the website and if they have share the same interests with you, it can serve as a good reason for you to choose this college.
+It is important for you to check the official website of the institute of your own course and search for the teaching faculty of your targeted colleges. The research interests of each member are listed on the website and if they share the same interests with you, it can serve as a good reason for you to choose this college.
 
 ### Norrington Table
 
