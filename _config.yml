@@ -1,14 +1,39 @@
+# Site settings
+title:          Ether's Blog
+description:    "A personal blog by Ether Lin"
+url:            https://github.com/Lin-Ether
 
-title: Ether's Blog
-email: etherlin1@gmail.com
-description: A personal blog by Ether Lin
-
-baseurl: "" 
-url: "https://etherlin.top/" 
-github_username:  Lin-Ether
+# Author
+author:
+  name:         Ether Lin
+  email:        etherlin1@gmail.com
+  url:          https://etherlin.top
 
 # Build settings
-theme: minima
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Related posts settings
+related_posts_section:
+  max_count:        5
+  min_common_tags:  2
+
+# Links to social media
+social:
+  email: etherlin1@gmail.com
+  github: https://github.com/Lin-Ether
+  linkedin: https://www.linkedin.com/in/lin-xi

@@ -1,30 +1,39 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="en">
 
-  {%- include head.html -%}
-<head>
-<link rel="icon" type="image/x-icon" href="Lin-Ether.github.io/download/images/favicon.ico"/>
-</head>
+  {% include head.html %}
+
   <body>
-
-    {%- include header.html -%}
-<header>
-<link rel="icon" type="image/x-icon" href="Lin-Ether.github.io/download/images/favicon.ico"/>
-</header>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h2 class="nav-title">{{ site.title }}</h2>
+        </a>
+        <ul class="nav-social-icons">
+          {% if site.social.email %}
+            <li><a target="_blank" href="mailto:{{ site.social.email }}"><i class="fas fa-envelope"></i></a></li>
+          {% endif %}
+          {% if site.social.github %}
+            <li><a target="_blank" href="{{ site.social.github }}"><i class="fab fa-github"></i></a></li>
+          {% endif %}
+          {% if site.social.twitter %}
+            <li><a target="_blank" href="{{ site.social.twitter }}"><i class="fab fa-twitter"></i></a></li>
+          {% endif %}
+          {% if site.social.linkedin %}
+            <li><a target="_blank" href="{{ site.social.linkedin }}"><i class="fab fa-linkedin-in"></i></a></li>
+          {% endif %}
+        </ul>
       </div>
+    </nav>
+
+    <main>
+      {{ content }}
     </main>
 
-    {%- include footer.html -%}
-<footer>
-<link rel="icon" type="image/x-icon" href="Lin-Ether.github.io/download/images/favicon.ico"/>
-</footer>
+    <footer>
+      <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Powered by Jekyll and <a href="#">Rain</a> theme.
+      </span>
+    </footer>
   </body>
-
 </html>
-
-<!-- Mathjax -->
-
-<!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
