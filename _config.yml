@@ -1,11 +1,11 @@
 
-title: Ether Lin's Blog
+title: Ether's Blog
 email: etherlin1@gmail.com
 description: A personal blog by Ether Lin
 
 baseurl: "" 
-url: "https://lin-ether.github.io/" 
-github_username:  lin-ether
+url: "https://etherlin.top/" 
+github_username:  Lin-Ether
 
 # Build settings
 theme: minima
