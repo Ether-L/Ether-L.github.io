@@ -1,8 +1,9 @@
 ---
-layout: page
-title:  "How do you choose your Oxford College?"
-date:   2021-04-11 02:19:00 +0800
-published: true
+title: How do you choose your Oxford College?
+author: Ether Lin
+date: 2021-04-11 02:19:00 +0800
+categories: [Resource, Application]
+tags: [College]
 ---
 
 Oxford has more than 30 colleges which provide courses for undergraduate students. Hence, how to choose a college can be a tough question. Here I'm going to introduce some ways to help you choose your college.
