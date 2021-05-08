@@ -11,4 +11,4 @@ github_username:  Lin-Ether
 theme: minima
 plugins:
   - jekyll-sitemap
-  
+  - jekyll-seo-tag
