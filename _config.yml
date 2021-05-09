@@ -1,7 +1,7 @@
 # Site settings
 title:          Ether
 description:    "A personal blog by Ether Lin"
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://etherlin.top"
 
 # Google Analytics
