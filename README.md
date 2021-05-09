@@ -1,3 +1,2 @@
-# lin-ether.github.io
-
-This is a personal website of mine.
+#Ether
+This is a personal blog of mine.
