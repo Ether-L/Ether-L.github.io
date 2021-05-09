@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "About"
-author: "Ether Lin"
 permalink: /about/
 ---
 
