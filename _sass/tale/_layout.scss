@@ -55,11 +55,10 @@ footer,
   text-decoration: none;
   display: inline-block;
   background: lightgray;
-  height: 50px;
-  width: 150px;
-  line-height:50px;
+  height: 1.5;
+  width: 100px;
+  line-height:1.5;
   text-align: center;
-  color:black;
 
     &:last-child {
       padding-right: 0;
@@ -68,7 +67,7 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
-      box-shadow: 0 -3px black;
+      box-shadow: 0 3px black;
     }
   }
 
