@@ -50,14 +50,14 @@ footer,
     display: inline-block;
     opacity: .6;
     padding: 0 2rem 0 0;
-    transition: all 0.8s;
-  margin: 5px;
+    transition: all 0.5s;
+  margin: 0px;
   text-decoration: none;
   display: inline-block;
   background: lightgray;
-  height: 1.5;
+  height: 4.5;
   width: 100px;
-  line-height:1.5;
+  line-height:4.5;
   text-align: center;
 
     &:last-child {
