@@ -50,6 +50,16 @@ footer,
     display: inline-block;
     opacity: .6;
     padding: 0 2rem 0 0;
+    transition: all 0.8s;
+  margin: 5px;
+  text-decoration: none;
+  display: inline-block;
+  background: lightgray;
+  height: 50px;
+  width: 150px;
+  line-height:50px;
+  text-align: center;
+  color:black;
 
     &:last-child {
       padding-right: 0;
@@ -58,7 +68,7 @@ footer,
     &:hover,
     &:focus {
       opacity: 1;
-      border-bottom: 5px solid black;
+      box-shadow: 0 -3px black;
     }
   }
 
