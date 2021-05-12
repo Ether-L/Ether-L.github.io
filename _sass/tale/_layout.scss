@@ -11,11 +11,11 @@ footer,
   margin: 0 auto;
   max-width: 800px;
   width: 80%;
-  line-height: 40px;
+  line-height: 50px;
 }
 
 .nav {
-  box-shadow: 0px 2px 2px 0px $shadow-color;
+  box-shadow: 0px 2px 2px -2px $shadow-color;
   // overflow: auto;
 
   &-container {
@@ -57,7 +57,7 @@ footer,
   background: none;
   height: 60px;
   width: 80px;
-  line-height: 70px;
+  line-height: 55px;
   text-align: center;
   background-color: none;
   
